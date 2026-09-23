@@ -1,5 +1,7 @@
 # eFootball Market v2 — real cards, minimal UI
 
+🌐 **Live 24/7: https://beraniahmed29-rgb.github.io/efootball-market/**
+
 Premium mobile-first marketplace. **Real imported card images only** — no generated art, no initials.
 
 > Independent community marketplace. Not affiliated with KONAMI.
